@@ -37,7 +37,7 @@ npm run dev
 
 ## 👤 Author
 
-Designed and developed by [Your Name], PMU Artist & Innovator  
+Designed and developed by Elaine Stanhope, PMU Artist & Innovator  
 Website: [www.blekkpro.com](http://www.blekkpro.com)
 
 ---
